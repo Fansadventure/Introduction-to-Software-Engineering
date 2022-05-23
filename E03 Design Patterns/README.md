@@ -21,7 +21,7 @@ Add associations to the ECommerceFacade in the classes of the package store and 
 
 __UML Diagram__
 
-<img src="images/Facade_Pattern.png" width = 600>
+<img src="images/Facade_pattern.png" width = 600>
 
 <br>
  ---

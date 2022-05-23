@@ -38,7 +38,6 @@ You have the following tasks:
  
  
 <br>
- ---
 <hr style="background-color:grey;"></hr>
 <br> 
 
@@ -66,7 +65,6 @@ This exercise is provided as Maven project with source code in the src folder an
 Do not edit any of the classes in the src folder. Only change the test classes in the test folder.
 
 <br>
- ---
 <hr style="background-color:grey;"></hr>
 <br> 
  

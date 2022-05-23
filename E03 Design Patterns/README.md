@@ -24,7 +24,6 @@ __UML Diagram__
 <img src="images/Facade_pattern.png" width = 600>
 
 <br>
- ---
 <hr style="background-color:grey;"></hr>
 
 ### Bridge Pattern
@@ -62,7 +61,6 @@ Hint: The class java.nio.file.Files might be helpful!
 <img src="images/Bridge_pattern2.png" width = 600>
 
 <br>
- ---
 <hr style="background-color:grey;"></hr>
 
 ### Composite Pattern
@@ -90,7 +88,6 @@ In Worker, only printName(level) must be invoked. If you want to test the functi
 <img src="images/Composite_pattern.png" width = 500>
 
 <br>
----
 <hr style="background-color:grey;"></hr>
 
 ### Observer Pattern
@@ -150,7 +147,6 @@ You have the following tasks:
 (For simplicity reasons, the diagram omits all the concrete views that already existed before and omits some methods that are not important for the implementation.)
 
 <br>
----
 <hr style="background-color:grey;"></hr>
 
 ### Adapter Pattern
@@ -169,7 +165,6 @@ You have the following tasks:
 <img src="images/Adapter_pattern.png" width = 700>
 
 <br>
----
 <hr style="background-color:grey;"></hr>
 
 ### Proxy Pattern
@@ -201,7 +196,6 @@ Make sure to follow the UML class diagram in your solution.
 <img src="images/Proxy_pattern.png" width = 600>
 
 <br>
----
 <hr style="background-color:grey;"></hr>
 
 ### Searching with the Strategy Pattern
@@ -237,7 +231,6 @@ We want the application to apply different search algorithms for names in our ph
 <img src="images/Stategy_pattern1.png" width = 1100>
 
 <br>
----
 <hr style="background-color:grey;"></hr>
 
 

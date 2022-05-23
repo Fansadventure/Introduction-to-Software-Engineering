@@ -12,7 +12,6 @@ You have the following tasks:
 4. Implement testInvalidAdd() in MoneyTest by expecting an IllegalArgumentException when the two currencies are different.
 
 <br>
- ---
 <hr style="background-color:grey;"></hr>
 <br> 
 

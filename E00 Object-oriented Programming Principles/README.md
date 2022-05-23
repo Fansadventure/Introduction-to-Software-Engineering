@@ -25,7 +25,7 @@ A WeeklyTimeSlot is a TimeSlot which has a weekday. It represents a time slot th
 4. Implement getDuration        
 For the implementation of getDuration(), take a look at the class java.time.Duration and its methods.
 
-<img src="images/ORP_P1.png" width = 500>
+<img src="images/ORP_P1.png" width = 600>
     
 #### Part 2: Skill and StudyLevel
 The university system should also be able to track whether students fulfill the prerequisites, of course. Therefore, we introduce the concepts of a skill and a study level. Create an interface Skill and an Enum StudyLevel.
@@ -35,7 +35,7 @@ Skill represents a Skill that can be learned by a Student and that the Student c
 2. Create StudyLevel        
 StudyLevel is the level of study, either bachelor or master.
 
-<img src="images/ORP_P2.png" width = 150>
+<img src="images/ORP_P2.png" width = 200>
 
 #### Part 3: Person, Student and Instructor
 To display the instructor of courses and the participants of tutor groups (students), we introduce more concepts as classes. Implement the classes Person, Student and Instructor.
@@ -46,7 +46,7 @@ A Student is a Person and has a matriculation number, a study level, a semester 
 3. Implement Instructor     
 An Instructor is a Person and can teach.
 
-<img src="images/ORP_P3.png" width = 500>
+<img src="images/ORP_P3.png" width = 550>
 
 We also want to implement some functionality for these classes:
 
@@ -80,7 +80,7 @@ The tutor says Thank you for coming to room today. where room is the local meeti
 Every participating student learns the skill that is planned to this TutorGroupMeeting
 The tutor says See you next time!
 
-<img src="images/ORP_P4.png" width = 800>
+<img src="images/ORP_P4.png" width = 900>
 
 
 

@@ -1,5 +1,5 @@
 ### Bumpers Sprint 1
-Bumpers is a small single-player game in which the player aims to destroy all other cars on the gameboard. You can finde more details in the [Bumpers Problem Statement]().
+Bumpers is a small single-player game in which the player aims to destroy all other cars on the gameboard. You can finde more details in the [Bumpers Problem Statement](https://github.com/Fansadventure/Introduction-to-software-engineering/blob/master/Problem%20Statement%20Bumpers%20and%20UniApp.pdf).
 
 #### Status of the Application
 The template gives you all the required classes for this exercise. The game is not completed yet, don't worry if your cars don't move initially.

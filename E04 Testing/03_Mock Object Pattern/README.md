@@ -1,7 +1,7 @@
 ### Mock Object Pattern for Discussion
 In this exercise, we want to write three unit tests to verify an existing system model. Some objects in the system model are not yet implemented and need to be mocked. The following UML diagram shows the system model (green), the SUT (orange), and the test model (red):
 
-<img src="images/mop1.png" width = 600>
+<img src="images/mop1.png" width = 700>
 
 Write unit tests for the Discussion class (SUT). The methods in Discussion use methods of other classes (collaborating objects) such as Comment and Course, which are not yet implemented and need to be mocked. This means, that in the system model, there are already interfaces for Comment and Course, however, the actual implementations CommentImpl and CourseImpl are missing (red). We use the Java testing framework EasyMock to mock these objects. With EasyMock, we do not need to create mock classes, we can simply specify the behavior of collaborating objects by using their interfaces (in this case Comment and Course) in the test case.
 
@@ -71,7 +71,7 @@ Do not edit any of the classes in the src folder. Only change the test classes i
  ### Mock Object Pattern for Enrollment
 In this exercise, we want to write one unit test to verify an existing system model. The course object in the system model is not yet implemented and needs to be mocked.
 
-<img src="images/mop_enrollment.png" width = 600>
+<img src="images/mop_enrollment.png" width = 500>
 
 Write a unit test for the Course object (SUT). There is no implementation yet, but there is already an interface for Course. The actual implementation CourseImpl is missing. We use the Java testing framework EasyMock to mock these objects. With EasyMock, we do not need to create mock classes, we can simply specify the behavior of collaborating objects by using their interfaces (in this case Course) in the test case.
 

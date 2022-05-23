@@ -25,7 +25,7 @@ A WeeklyTimeSlot is a TimeSlot which has a weekday. It represents a time slot th
 4. Implement getDuration        
 For the implementation of getDuration(), take a look at the class java.time.Duration and its methods.
 
-<img src="images/ORP_P1.png" width = 600>
+<img src="images/ORP_P1.png" width = 700>
     
 #### Part 2: Skill and StudyLevel
 The university system should also be able to track whether students fulfill the prerequisites, of course. Therefore, we introduce the concepts of a skill and a study level. Create an interface Skill and an Enum StudyLevel.
@@ -80,7 +80,7 @@ The tutor says Thank you for coming to room today. where room is the local meeti
 Every participating student learns the skill that is planned to this TutorGroupMeeting
 The tutor says See you next time!
 
-<img src="images/ORP_P4.png" width = 900>
+<img src="images/ORP_P4.png" width = 950>
 
 
 

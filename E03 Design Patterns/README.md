@@ -58,7 +58,7 @@ Hint: The class java.nio.file.Files might be helpful!
 
 **UML Diagram**
 
-<img src="images/Bridge_pattern2.png" width = 800>
+<img src="images/Bridge_pattern2.png" width = 900>
 
 <br>
 <hr style="background-color:grey;"></hr>
@@ -162,7 +162,7 @@ You have the following tasks:
 
 4. Replace the implementation of CelsiusThermo in TemperatureCurve with ThermoAdapter.
 
-<img src="images/Adapter_pattern.png" width = 700>
+<img src="images/Adapter_pattern.png" width = 600>
 
 <br>
 <hr style="background-color:grey;"></hr>

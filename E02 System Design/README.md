@@ -6,3 +6,7 @@ In this exercise, you map the subsystem decomposition including the most importa
 Important: Make sure that your source code is consistent with the UML diagrams in your system design.
 
 Please note: In this exercise, there are no test cases. Your score will be inserted manually by one of the teaching assistants after the deadline of the exercise.
+
+
+#### Some important concetps to understand
+See [here](https://github.com/Fansadventure/Introduction-to-software-engineering/blob/master/E02%20System%20Design/Important%20concetps.md).

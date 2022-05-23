@@ -21,7 +21,7 @@ Add associations to the ECommerceFacade in the classes of the package store and 
 
 __UML Diagram__
 
-<img src="images/Facade_pattern.png" width = 600>
+<img src="images/Facade_pattern.png" width = 700>
 
 <br>
 <hr style="background-color:grey;"></hr>
@@ -36,7 +36,7 @@ Universities want to test the functionality of the exam system before using it a
 
 **Current UML Diagram**
 
-<img src="images/Bridge_pattern1.png" width = 600>
+<img src="images/Bridge_pattern1.png" width = 500>
 
 #### Your Task:
 Your task is to refactor the system, making it easier to switch the Hashing implementations. Introduce the bridge pattern to offer two versions of the application: PreviewHashing, a free version to test the functionality, and EnterpriseHashing, which provides the full functionality.
@@ -58,7 +58,7 @@ Hint: The class java.nio.file.Files might be helpful!
 
 **UML Diagram**
 
-<img src="images/Bridge_pattern2.png" width = 600>
+<img src="images/Bridge_pattern2.png" width = 800>
 
 <br>
 <hr style="background-color:grey;"></hr>
@@ -228,7 +228,7 @@ We want the application to apply different search algorithms for names in our ph
 
 4. Complete the Client class which demonstrates switching between two strategies at runtime. This class is not tested.
 
-<img src="images/Stategy_pattern1.png" width = 1100>
+<img src="images/Strategy_pattern1.png" width = 1100>
 
 <br>
 <hr style="background-color:grey;"></hr>
